@@ -11,7 +11,7 @@ Numerical solver for the Lane–Emden equation using a custom 4th-order Runge–
 - Scientific plotting and reproducible computation (NumPy + Matplotlib)
 - Optional performance optimization using Numba JIT
 
-## Problem background (short)
+## Problem background
 The Lane–Emden equation describes the dimensionless structure of polytropic stellar models:
 
 - `n = 1.5` is commonly used as an approximation for adiabatic/convective transport in main-sequence stars  
