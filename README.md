@@ -1,7 +1,5 @@
 # README Lane–Emden Equation Solver (RK4) 
-Astrophysics II FY3451
-
-Numerical solver for the Lane–Emden equation using a custom 4th-order Runge–Kutta (RK4) integrator, with validation against known analytical solutions for selected polytropic indices.
+This repository contains an implementation of a numerical solver for the Lane–Emden equation using a custom 4th-order Runge–Kutta (RK4) integrator, with validation against known analytical solutions for selected polytropic indices. The Lane-Emden equation is a second-order, non-linear ordinary differential equation used in astrophysics to model density, pressure and temperature in a star or other celestial objects.
 
 ## What this repo demonstrates
 - Implementing a custom ODE solver (RK4) from scratch (no black-box solver)
